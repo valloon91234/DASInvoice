@@ -1,0 +1,5 @@
+D:\Workspace\Visual Studio 2019\DASInvoice\TabControlExtra\bin\Debug\TradeWright.TabControlExtra.dll
+D:\Workspace\Visual Studio 2019\DASInvoice\TabControlExtra\bin\Debug\TradeWright.TabControlExtra.pdb
+D:\Workspace\Visual Studio 2019\DASInvoice\TabControlExtra\obj\Debug\TabControlExtra.csprojAssemblyReference.cache
+D:\Workspace\Visual Studio 2019\DASInvoice\TabControlExtra\obj\Debug\TradeWright.TabControlExtra.dll
+D:\Workspace\Visual Studio 2019\DASInvoice\TabControlExtra\obj\Debug\TradeWright.TabControlExtra.pdb

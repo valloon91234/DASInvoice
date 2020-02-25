@@ -1,0 +1,5 @@
+C:\Users\Valloon\Downloads\tabcontrol-extra-master\TabControlExtra\bin\Debug\TradeWright.TabControlExtra.dll
+C:\Users\Valloon\Downloads\tabcontrol-extra-master\TabControlExtra\bin\Debug\TradeWright.TabControlExtra.pdb
+C:\Users\Valloon\Downloads\tabcontrol-extra-master\TabControlExtra\obj\x86\Debug\TabControlExtra.csprojAssemblyReference.cache
+C:\Users\Valloon\Downloads\tabcontrol-extra-master\TabControlExtra\obj\x86\Debug\TradeWright.TabControlExtra.dll
+C:\Users\Valloon\Downloads\tabcontrol-extra-master\TabControlExtra\obj\x86\Debug\TradeWright.TabControlExtra.pdb
